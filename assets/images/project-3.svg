@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="Project image placeholder">
+  <rect width="400" height="220" fill="#d5dbe6"/>
+  <rect x="40" y="50" width="140" height="90" rx="8" fill="#aeb9cb"/>
+  <rect x="40" y="155" width="280" height="12" rx="4" fill="#aeb9cb"/>
+  <text x="200" y="205" text-anchor="middle" fill="#697386" font-family="Arial,sans-serif" font-size="14" font-weight="700">Replace: project-3</text>
+</svg>

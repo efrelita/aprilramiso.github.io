@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520" role="img" aria-label="Portrait placeholder">
+  <rect width="400" height="520" fill="#e8ecf2"/>
+  <circle cx="200" cy="170" r="70" fill="#c9d3e0"/>
+  <rect x="120" y="250" width="160" height="200" rx="40" fill="#c9d3e0"/>
+  <text x="200" y="480" text-anchor="middle" fill="#697386" font-family="Arial,sans-serif" font-size="16" font-weight="700">Replace: hero-portrait</text>
+</svg>
