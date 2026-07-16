@@ -727,7 +727,12 @@ ul {
   display: block;
   height: 170px;
   object-fit: cover;
+  object-position: center;
   width: 100%;
+}
+
+.project-image-hero {
+  object-position: top center;
 }
 
 .project-body {
@@ -740,6 +745,20 @@ ul {
   font-size: 12px;
   font-weight: 900;
   margin-top: 16px;
+}
+
+.project-link {
+  color: var(--rose);
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 12px;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.project-link:hover {
+  color: var(--rose-dark);
 }
 
 .contact {
